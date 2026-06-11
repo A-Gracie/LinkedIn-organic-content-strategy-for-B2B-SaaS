@@ -49,7 +49,7 @@ real revenue from LinkedIn organic alone.
 
 ## 3. Lara Acosta
 
-- **LinkedIn:** https://www.linkedin.com/in/laraacostadev
+- **LinkedIn:** https://www.linkedin.com/in/laraacostar/
 - **YouTube:** https://www.youtube.com/@laraacosta
 
 **Why selected:**
