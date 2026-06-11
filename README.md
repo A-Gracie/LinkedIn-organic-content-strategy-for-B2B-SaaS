@@ -278,12 +278,12 @@ linkedin-b2b-saas-content-research/
     │   ├── jasmin-alic/
     │   ├── devin-reed/
     │   └── richard-van-der-blom/
-    ││
+    │
     ├── youtube-transcripts/           ← 6 Podcast video transcripts across 3 experts
     │   ├── chris walker/
     │   ├── dave-gerhardt/
     │   └── richard-van-der-blom/
-    ├
+    |
     └── other/                         ← Newsletters, PDFs, additional material
         ├── richard-van-der-blom-algorithm-report-2025.pdf
         ├── pierre-herubel-newsletter/
