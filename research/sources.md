@@ -90,7 +90,7 @@ B2B SaaS companies build brands and generate demand through organic LinkedIn.
 
 ## 5. Chris Walker
 
-- **LinkedIn:** https://www.linkedin.com/in/chriswalker171
+- **LinkedIn:** https://www.linkedin.com/in/chriswalker171/
 - **Podcast:** https://www.refinelabs.com/podcast
 - **YouTube:** Search "Chris Walker State of Demand Gen LinkedIn" on YouTube
 
