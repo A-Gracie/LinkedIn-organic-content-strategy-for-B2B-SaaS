@@ -133,7 +133,7 @@ content strategy thinking available anywhere.
 
 ## 7. Adam Robinson
 
-- **LinkedIn:** https://www.linkedin.com/in/adam-robinson-9999
+- **LinkedIn:** https://www.linkedin.com/in/retentionadam/
 - **YouTube:** Search "Adam Robinson Billion Dollar Challenge LinkedIn" on YouTube
 - **Website:** https://www.rb2b.com
 
