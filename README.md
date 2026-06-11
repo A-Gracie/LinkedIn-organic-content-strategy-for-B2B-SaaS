@@ -170,3 +170,123 @@ independent platforms: Favikon (2023), Taplio (2024), and Aware (2025).
 of copywriting psychology and LinkedIn content mechanics, the layer that
 explains why some posts stop the scroll and others disappear. Clients include
 Microsoft, Shell, and Marriott Bonvoy.
+
+
+## What Was Collected
+
+The research material in this repository was collected across three source types.
+Every piece of content was selected for signal quality, not volume. A post that
+explains a system beats ten posts that repeat an opinion.
+
+---
+
+### LinkedIn Posts
+
+Collected manually from each expert's LinkedIn profile. Posts were selected based
+on relevance to content strategy, audience building, and pipeline generation —
+not just the most liked or most shared. Each expert's posts are saved as a
+separate `.md` file inside `research/linkedin-posts/`.
+
+| Expert | Posts Collected | Primary Focus |
+|---|---|---|
+| Lara Acosta | 10 posts | Hook writing, post structure, rapid audience building |
+| Jasmin Alić | 10 posts | Copywriting psychology, scroll-stopping frameworks |
+| Justin Welsh | 7 posts | Content systems, solopreneur organic growth |
+| Pierre Herubel | 7 posts | B2B SaaS content strategy, ICP-first frameworks |
+| Dave Gerhardt | 7 posts | B2B brand building, demand gen through organic |
+| Adam Robinson | 7 posts | Founder-led growth, ARR through LinkedIn organic |
+| Devin Reed | 5 posts | B2B SaaS content science, pipeline-linked content |
+
+**Total: 53 LinkedIn posts across 7 experts**
+
+---
+
+### YouTube Transcripts
+
+Transcripts were pulled using the `youtube-transcript-api` Python library.
+Each transcript is saved as a `.md` file inside a named folder under
+`research/youtube-transcripts/`. Videos were selected specifically for
+episodes covering LinkedIn content strategy, B2B content systems, and
+founder-led organic growth — not general marketing advice.
+
+| Expert | Videos | Primary Focus |
+|---|---|---|
+| Adam Robinson | 2 videos | Billion Dollar Challenge — live LinkedIn strategy and ARR impact |
+| Pierre Herubel | 2 videos | B2B content systems, Content-First Ecosystem framework |
+| Justin Welsh | 2 videos | Content Operating System, LinkedIn growth tutorials |
+| April Dunford | 2 videos | Positioning for B2B SaaS, messaging before content |
+| Jasmin Alić | 2 videos | The Futur interview — 2025 LinkedIn rules and copy frameworks |
+| Devin Reed | 2 videos | Reed Between the Lines — B2B content science |
+
+**Total: 12 YouTube videos across 6 experts**
+
+---
+
+### Podcast Episodes
+
+All three podcast sources are also available on YouTube, meaning the same
+`youtube-transcript-api` method was used to pull transcripts. Episodes were
+filtered specifically for discussions on LinkedIn organic strategy and
+pipeline generation — not general marketing episodes.
+
+| Expert | Episodes | Podcast | Primary Focus |
+|---|---|---|---|
+| Richard van der Blom | 2 episodes | Various appearances | LinkedIn algorithm mechanics and 2025–2026 data |
+| Dave Gerhardt | 2 episodes | Exit Five Podcast | LinkedIn organic for B2B brand and demand gen |
+| Chris Walker | 2 episodes | State of Demand Gen | Organic content driving pipeline, dark social |
+
+**Total: 6 podcast episodes across 3 experts**
+
+---
+
+### Additional Materials
+
+Saved inside `research/other/`:
+
+- Richard van der Blom's Algorithm Insights Report 2025 — the most cited
+  LinkedIn data document in B2B marketing
+- Pierre Herubel Substack newsletters — content strategy breakdowns
+- Justin Welsh "The Saturday Solopreneur" newsletter issues
+- Devin Reed "The Reeder" newsletter — B2B content system breakdowns
+
+---
+
+## Repository Structure
+
+```
+linkedin-b2b-saas-content-research/
+│
+├── README.md                          ← You are here
+│
+└── research/
+    ├── sources.md                     ← All 10 experts with links, dates, annotations
+    │
+    ├── linkedin-posts/                ← 53 posts across 7 experts
+    │   ├── lara-acosta.md
+    │   ├── jasmin-alic.md
+    │   ├── justin-welsh.md
+    │   ├── pierre-herubel.md
+    │   ├── dave-gerhardt.md
+    │   ├── adam-robinson.md
+    │   └── devin-reed.md
+    │
+    ├── youtube-transcripts/           ← 12 video transcripts across 6 experts
+    │   ├── adam-robinson/
+    │   ├── pierre-herubel/
+    │   ├── justin-welsh/
+    │   ├── april-dunford/
+    │   ├── jasmin-alic/
+    │   ├── devin-reed/
+    │   └── richard-van-der-blom/
+    ││
+    ├── youtube-transcripts/           ← 6 Podcast video transcripts across 3 experts
+    │   ├── chris walker/
+    │   ├── dave-gerhardt/
+    │   └── richard-van-der-blom/
+    ├
+    └── other/                         ← Newsletters, PDFs, additional material
+        ├── richard-van-der-blom-algorithm-report-2025.pdf
+        ├── pierre-herubel-newsletter/
+        ├── justin-welsh-newsletter/
+        └── devin-reed-newsletter/
+```
