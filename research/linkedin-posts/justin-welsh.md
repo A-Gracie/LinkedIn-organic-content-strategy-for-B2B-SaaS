@@ -1,7 +1,7 @@
 # Jusin Welsh — LinkedIn Posts
 
 **Profile:** https://www.linkedin.com/in/justinwelsh/
-**Collected:** June 2026
+**Collected:** 12th June 2026
 **Total Posts:** 7
 
 ---
