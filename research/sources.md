@@ -224,7 +224,7 @@ source on this list for the copy and psychology layer of content strategy.
 
 | Expert | LinkedIn Posts | YouTube Videos | Podcast Episodes |
 |---|---|---|---|
-| Richard van der Blom | — | — | 2 |
+| Richard van der Blom | — | 2 | — |
 | Justin Welsh | 7 | 2 | — |
 | Lara Acosta | 10 | 2 | — |
 | Dave Gerhardt | 7 | — | 2 |
@@ -234,7 +234,7 @@ source on this list for the copy and psychology layer of content strategy.
 | Pierre Herubel | 7 | 2 | — |
 | Devin Reed | 5 | 2 | — |
 | Jasmin Alić | 10 | 2 | — |
-| **Total** | **53 posts** | **16 videos** | **6 episodes** |
+| **Total** | **53 posts** | **16 videos** | **4 episodes** |
 
 
 ---
