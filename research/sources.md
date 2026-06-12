@@ -41,7 +41,7 @@ real revenue from LinkedIn organic alone.
 **What was collected:**
 - 7 LinkedIn posts focused on content systems and audience building
 - 2 YouTube video transcripts on Content OS and LinkedIn growth tutorials
-- 2 issues of The Saturday Solopreneur newsletter saved in research/other/
+- 1 LinkedIn Document saved in research/other/
 
 **Date collected:** 11th June 2026
 
@@ -170,7 +170,7 @@ consistently through 2025–2026.
 **What was collected:**
 - 7 LinkedIn posts focused on B2B SaaS content systems and ICP-first strategy
 - 2 YouTube video transcripts on Content-First Ecosystem and B2B content strategy
-- 2 Substack newsletter issues saved in research/other/pierre-herubel-newsletter/
+- 1 LinkedIn Document saved in research/other/pierre-herubel-linkedin-document.txt
 
 **Date collected:** 11th June 2026
 
@@ -192,7 +192,6 @@ does. The most B2B SaaS-native content strategist in this entire research projec
 **What was collected:**
 - 5 LinkedIn posts focused on B2B SaaS content systems and pipeline-linked content
 - 2 Reed Between the Lines YouTube video transcripts
-- 2 issues of The Reeder newsletter saved in research/other/devin-reed-newsletter/
 
 **Date collected:** 11th June 2026
 
@@ -236,3 +235,31 @@ source on this list for the copy and psychology layer of content strategy.
 | Devin Reed | 5 | 2 | — |
 | Jasmin Alić | 10 | 2 | — |
 | **Total** | **53 posts** | **16 videos** | **6 episodes** |
+
+
+---
+
+## Cross-Expert Patterns
+
+After reviewing content across all 10 experts, these themes appear
+consistently and will anchor the final playbook:
+
+1. LinkedIn organic is the highest ROI channel for B2B SaaS when
+   executed with a system — not sporadic posting
+2. The algorithm rewards dwell time, comments, and saves more than likes
+3. Founder-led content consistently outperforms company page content
+4. Positioning and ICP clarity must come before content creation
+5. Hooks, structure, and consistency are the three non-negotiable
+   mechanics of high-performing LinkedIn posts
+6. Revenue attribution from LinkedIn organic is possible and necessary
+   for executive buy-in
+
+   ## Transcript Collection Method
+
+YouTube transcripts were collected using the free web tool at
+https://ashley-cameron.com/yt/remove-timestamps/
+
+The youtube-transcript-api Python library (Python 3.14.6) was installed and
+attempted but YouTube blocked requests from the local IP. The web tool
+was used as the documented alternative method. Transcripts are saved
+as plain text files organized by expert folder.
