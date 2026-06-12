@@ -217,8 +217,10 @@ founder-led organic growth — not general marketing advice.
 | April Dunford | 2 videos | Positioning for B2B SaaS, messaging before content |
 | Jasmin Alić | 2 videos | The Futur interview — 2025 LinkedIn rules and copy frameworks |
 | Devin Reed | 2 videos | Reed Between the Lines — B2B content science |
+| Richard van der Blom | 2 videos | Linkedin B2B growth strategies |
+| Lara acosta | 2 videos | Linkedin Organic Content B2B strategies |
 
-**Total: 12 YouTube videos across 6 experts**
+**Total: 16 YouTube videos across 8 experts**
 
 ---
 
@@ -231,7 +233,6 @@ pipeline generation — not general marketing episodes.
 
 | Expert | Episodes | Podcast | Primary Focus |
 |---|---|---|---|
-| Richard van der Blom | 2 episodes | Various appearances | LinkedIn algorithm mechanics and 2025–2026 data |
 | Dave Gerhardt | 2 episodes | Exit Five Podcast | LinkedIn organic for B2B brand and demand gen |
 | Chris Walker | 2 episodes | State of Demand Gen | Organic content driving pipeline, dark social |
 
@@ -243,11 +244,9 @@ pipeline generation — not general marketing episodes.
 
 Saved inside `research/other/`:
 
-- Richard van der Blom's Algorithm Insights Report 2025 — the most cited
-  LinkedIn data document in B2B marketing
-- Pierre Herubel Substack newsletters — content strategy breakdowns
-- Justin Welsh "The Saturday Solopreneur" newsletter issues
-- Devin Reed "The Reeder" newsletter — B2B content system breakdowns
+- Richard van der Blom's Case Study
+- Pierre Herubel "15 business strategy"
+- Justin Welsh "789k followers linkedin breakdown"
 
 ---
 
@@ -270,25 +269,24 @@ linkedin-b2b-saas-content-research/
     │   ├── adam-robinson.md
     │   └── devin-reed.md
     │
-    ├── youtube-transcripts/           ← 12 video transcripts across 6 experts
+    ├── youtube-transcripts/           ← 16 video transcripts across 8 experts
     │   ├── adam-robinson/
     │   ├── pierre-herubel/
+    |   ├── lara-acosta/
     │   ├── justin-welsh/
     │   ├── april-dunford/
     │   ├── jasmin-alic/
     │   ├── devin-reed/
     │   └── richard-van-der-blom/
     │
-    ├── youtube-transcripts/           ← 6 Podcast video transcripts across 3 experts
+    ├── youtube-transcripts/           ← 4 Podcast video transcripts across 3 experts
     │   ├── chris walker/
     │   ├── dave-gerhardt/
-    │   └── richard-van-der-blom/
     |
-    └── other/                         ← Newsletters, PDFs, additional material
-        ├── richard-van-der-blom-algorithm-report-2025.pdf
-        ├── pierre-herubel-newsletter/
-        ├── justin-welsh-newsletter/
-        └── devin-reed-newsletter/
+    └── other/                         ← Documents, PDFs, additional material
+        ├── richard-van-der-blom- Case-Study
+        ├── pierre-herubel-document/
+        ├── justin-welsh-document/
 ```
 
 ## Key Signals from the Research
@@ -338,60 +336,7 @@ and will form the backbone of the playbook:
 | Devin Reed | 5 posts | 2 videos | ✅ Complete |
 | Jasmin Alić | 10 posts | 2 videos | ✅ Complete |
 
-**Total: 53 LinkedIn posts · 16 YouTube videos · 6 podcast episodes**
-
-All content collected in June 2026. All sources verified active and posting
-as of collection date.
-
-
-## Key Signals from the Research
-
-These are the most important patterns that emerged across all 10 experts
-and will form the backbone of the playbook:
-
-- **Algorithm first, tactics second** — Richard van der Blom's data shows
-  LinkedIn reach is down up to 60% but engagement quality is up. Every
-  tactic must be built around what the algorithm rewards in 2025–2026,
-  not 2022 best practices.
-
-- **Founder voice outperforms brand content** — Adam Robinson, Justin Welsh,
-  and Pierre Herubel all built pipeline through personal profiles, not
-  company pages. Personal profiles get up to 5x more organic reach.
-
-- **Positioning before posting** — April Dunford's frameworks show that
-  without clear positioning, even well-structured posts attract the wrong
-  audience. What you say matters more than how often you say it.
-
-- **Hooks are the highest leverage point** — Lara Acosta and Jasmin Alić
-  both document that the first line of a post determines 80%+ of its
-  reach. Hook writing is a skill, not an afterthought.
-
-- **Content must connect to revenue** — Devin Reed's work at Gong and Clari
-  proves that LinkedIn organic must be tied to pipeline metrics, not just
-  impressions. Vanity metrics kill executive buy-in.
-
-- **Consistency beats volume** — Across all 10 experts, posting consistently
-  3–5 times per week outperforms sporadic daily posting followed by silence.
-  The algorithm rewards reliability.
-
----
-
-## Collection Status
-
-| Expert | LinkedIn Posts | YouTube/Podcast | Status |
-|---|---|---|---|
-| Richard van der Blom | — | 2 videos | ✅ Complete |
-| Justin Welsh | 7 posts | 2 videos | ✅ Complete |
-| Lara Acosta | 10 posts | 2 videos | ✅ Complete |
-| Dave Gerhardt | 7 posts | 2 episodes | ✅ Complete |
-| Chris Walker | 7 posts | 2 episodes | ✅ Complete |
-| April Dunford | — | 2 videos | ✅ Complete |
-| Adam Robinson | 7 posts | 2 videos | ✅ Complete |
-| Pierre Herubel | 7 posts | 2 videos | ✅ Complete |
-| Devin Reed | 5 posts | 2 videos | ✅ Complete |
-| Jasmin Alić | 10 posts | 2 videos | ✅ Complete |
-
-**Total: 53 LinkedIn posts · 16 YouTube videos · 6 podcast episodes**
+**Total: 53 LinkedIn posts · 16 YouTube videos · 4 podcast episodes**
 
 All content collected in June 2026. All sources verified active and posting
 as of collection date.
