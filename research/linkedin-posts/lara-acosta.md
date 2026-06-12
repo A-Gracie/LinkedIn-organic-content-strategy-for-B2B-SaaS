@@ -1,15 +1,21 @@
  # Lara Acosta — LinkedIn Posts
 
-**Profile:** https://www.linkedin.com/in/laraacostar/
-**Collected:** 11th June 2026
-**Total Posts:** 10
+**Profile:** 
+https://www.linkedin.com/in/laraacostar/
+**Collected:** 
+11th June 2026
+**Total Posts:** 
+10
 
 ---
 
 ## Post 1
-**Date:** May 2026
-**URL:**https://www.linkedin.com/posts/laraacostar_if-you-want-high-ticket-clients-from-your-activity-7454839645923848192-ZO5c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** If you want high-ticket clients from your LinkedIn...
+**Date:** 
+May 2026
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_if-you-want-high-ticket-clients-from-your-activity-7454839645923848192-ZO5c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+If you want high-ticket clients from your LinkedIn...
 
 You don't need to understand the "new" algorithm.
 You need to understand content and conversion instead. 
@@ -31,9 +37,12 @@ Generic content doesn't work. 1% content does.
 ---
 
 ## Post 2
-**Date:** May 2026
-**URL:** https://www.linkedin.com/posts/laraacostar_you-dont-need-algorithm-hacks-to-grow-on-activity-7449418737713238016-8dep?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** You don't need algorithm hacks to grow on LinkedIn.
+**Date:** 
+May 2026
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_you-dont-need-algorithm-hacks-to-grow-on-activity-7449418737713238016-8dep?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+You don't need algorithm hacks to grow on LinkedIn.
 
 I spent the last 90 days testing every growth hack I could find. Here's what actually works:
 
@@ -94,9 +103,12 @@ I've just recorded a private video on how to dominate "storytelling" on LinkedIn
 ---
 
 ## Post 3
-**Date:** February 2026
-**URL:** https://www.linkedin.com/posts/laraacostar_i-spent-the-last-90-days-testing-every-linkedin-activity-7418989480877031425-RtsB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** I spent the last 90 days testing every LinkedIn hack. 
+**Date:** 
+February 2026
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_i-spent-the-last-90-days-testing-every-linkedin-activity-7418989480877031425-RtsB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+I spent the last 90 days testing every LinkedIn hack. 
 
 Here's what actually works in 2026 (for any niche):
 
@@ -168,9 +180,12 @@ The rest will follow.
 ---
 
 ## Post 4
-**Date:** January 2026
-**URL:** https://www.linkedin.com/posts/laraacostar_this-is-the-exact-lead-gen-strategy-im-using-activity-7413552547963129856-RlMj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** This is the exact lead gen strategy I'm using in 2026.
+**Date:** 
+January 2026
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_this-is-the-exact-lead-gen-strategy-im-using-activity-7413552547963129856-RlMj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+This is the exact lead gen strategy I'm using in 2026.
 
 It made me over $1M in 2025, so I'm using it again:
 
@@ -195,9 +210,12 @@ The entire lead generation playbook is right there
 ---
 
 ## Post 5
-**Date:** January 2026
-**URL:** https://www.linkedin.com/posts/laraacostar_the-best-career-advice-i-can-give-you-this-activity-7409201099477504001-4rJN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** The best career advice I can give you this 2026:
+**Date:** 
+January 2026
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_the-best-career-advice-i-can-give-you-this-activity-7409201099477504001-4rJN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+The best career advice I can give you this 2026:
 
 (read this before you plan your year)
 
@@ -230,9 +248,12 @@ Happy new year team LA! So blessed for all of you!
 ---
 
 ## Post 6
-**Date:** January 2026
-**URL:** https://www.linkedin.com/posts/laraacostar_my-linkedin-content-strategy-is-unbeatable-activity-7407036478071021568-GbBg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** My LinkedIn Content Strategy is unbeatable.
+**Date:** 
+January 2026
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_my-linkedin-content-strategy-is-unbeatable-activity-7407036478071021568-GbBg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+My LinkedIn Content Strategy is unbeatable.
 
 It makes me $20k a week (even with low impressions).
 
@@ -263,9 +284,12 @@ I broke down the entire strategy (with examples).
 ---
 
 ## Post 7
-**Date:** December 2025
-**URL:** https://www.linkedin.com/posts/laraacostar_i-built-my-first-business-to-6-figures-after-activity-7401236253733441536-BLSw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** I built my first business to 6-figures after class. 
+**Date:** 
+December 2025
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_i-built-my-first-business-to-6-figures-after-activity-7401236253733441536-BLSw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+I built my first business to 6-figures after class. 
 
 The reason? I didn't wait until "I felt ready" and you shouldn't either, because you already are. 
 
@@ -324,9 +348,12 @@ Repost ♻️ so everyone wins in 2026!
 ---
 
 ## Post 8
-**Date:** December 2025
-**URL:** https://www.linkedin.com/posts/laraacostar_this-simple-linkedin-funnel-made-us-hit-200k-activity-7397234924384276480-tHIL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** This simple LinkedIn funnel made us hit $200k+ 
+**Date:** 
+December 2025
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_this-simple-linkedin-funnel-made-us-hit-200k-activity-7397234924384276480-tHIL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+This simple LinkedIn funnel made us hit $200k+ 
 
 (In under 2 weeks, without doing outbound).
 
@@ -360,9 +387,12 @@ Get all of my courses in 1 for 50% off today.
 ---
 
 ## Post 9
-**Date:** December 2025
-**URL:** https://www.linkedin.com/posts/laraacostar_this-1-free-lead-magnet-made-me-11358-activity-7396509959758446592-NZon?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** This 1 free lead magnet made me $11,358.
+**Date:** 
+December 2025
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_this-1-free-lead-magnet-made-me-11358-activity-7396509959758446592-NZon?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+This 1 free lead magnet made me $11,358.
 
 Here's my mini masterclass (so you can copy me).
 
@@ -394,9 +424,12 @@ If you want to see me break down how to build, market and grow your business thr
 ---
 
 ## Post 10
-**Date:** November 2025
-**URL:** https://www.linkedin.com/posts/laraacostar_my-4-step-writing-framework-is-unbeatable-activity-7387101902301306881-HvcA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
-**Content:** My 4-step writing framework is unbeatable.
+**Date:** 
+November 2025
+**URL:** 
+https://www.linkedin.com/posts/laraacostar_my-4-step-writing-framework-is-unbeatable-activity-7387101902301306881-HvcA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJkeLEBrvXP2UgDDYzykAJzS1BbJ8VM1rI
+**Content:** 
+My 4-step writing framework is unbeatable.
 
 (If you're stuck at low likes and impressions, read this)
 
