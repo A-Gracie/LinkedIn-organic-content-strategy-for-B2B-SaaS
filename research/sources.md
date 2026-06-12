@@ -7,7 +7,7 @@ documented results, not follower count or reputation alone.
 
 ## 1. Richard van der Blom
 
-- **LinkedIn:** https://www.linkedin.com/in/richardvanderblom
+- **LinkedIn:** https://www.linkedin.com/in/richardvanderblom/
 - **YouTube/Podcast:** Search "Richard van der Blom LinkedIn algorithm 2025" on YouTube
 - **Website:** https://richardvanderblom.com
 
@@ -27,7 +27,7 @@ No playbook on LinkedIn organic can be credible without his numbers as the found
 
 ## 2. Justin Welsh
 
-- **LinkedIn:** https://www.linkedin.com/in/justinwelsh
+- **LinkedIn:** https://www.linkedin.com/in/justinwelsh/
 - **YouTube:** https://www.youtube.com/@JustinWelsh
 - **Newsletter:** https://www.justinwelsh.me/newsletter
 
@@ -111,7 +111,7 @@ instead of paid? One of the most referenced voices in B2B marketing in 2025–20
 
 ## 6. April Dunford
 
-- **LinkedIn:** https://www.linkedin.com/in/aprildunford
+- **LinkedIn:** https://www.linkedin.com/in/aprildunford/
 - **YouTube:** https://www.youtube.com/@aprildunford
 - **Website:** https://www.aprildunford.com
 
@@ -155,7 +155,7 @@ of documented, public proof.
 
 ## 8. Pierre Herubel
 
-- **LinkedIn:** https://www.linkedin.com/in/pierre-herubel-540b3949
+- **LinkedIn:** https://www.linkedin.com/in/pierre-herubel-540b3949/
 - **YouTube:** https://www.youtube.com/@PierreHerubel
 - **Newsletter:** https://pierreherubel.substack.com
 
@@ -200,7 +200,7 @@ does. The most B2B SaaS-native content strategist in this entire research projec
 
 ## 10. Jasmin Alić
 
-- **LinkedIn:** https://www.linkedin.com/in/alicjasmin
+- **LinkedIn:** https://www.linkedin.com/in/alicjasmin/
 - **YouTube:** Search "Jasmin Alic The Futur LinkedIn 2025" on YouTube
 - **Podcast:** Link Up Podcast on Spotify
 
