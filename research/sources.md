@@ -69,7 +69,7 @@ hook writing, post structure, and rapid audience building frameworks.
 
 ## 4. Dave Gerhardt
 
-- **LinkedIn:** https://www.linkedin.com/in/davegerhardt
+- **LinkedIn:** https://www.linkedin.com/in/davegerhardt/
 - **Podcast:** https://www.exitfive.com/podcast
 - **YouTube:** Search "Exit Five podcast LinkedIn" on YouTube
 
