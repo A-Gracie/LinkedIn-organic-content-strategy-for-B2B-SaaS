@@ -1,7 +1,7 @@
 # Jasmin Alic — LinkedIn Posts
 
 **Profile:** https://www.linkedin.com/in/alicjasmin/
-**Collected:** June 2026
+**Collected:** 12th June 2026
 **Total Posts:** 10
 
 ---
