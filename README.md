@@ -290,3 +290,108 @@ linkedin-b2b-saas-content-research/
         ├── justin-welsh-newsletter/
         └── devin-reed-newsletter/
 ```
+
+## Key Signals from the Research
+
+These are the most important patterns that emerged across all 10 experts
+and will form the backbone of the playbook:
+
+- **Algorithm first, tactics second** — Richard van der Blom's data shows
+  LinkedIn reach is down up to 60% but engagement quality is up. Every
+  tactic must be built around what the algorithm rewards in 2025–2026,
+  not 2022 best practices.
+
+- **Founder voice outperforms brand content** — Adam Robinson, Justin Welsh,
+  and Pierre Herubel all built pipeline through personal profiles, not
+  company pages. Personal profiles get up to 5x more organic reach.
+
+- **Positioning before posting** — April Dunford's frameworks show that
+  without clear positioning, even well-structured posts attract the wrong
+  audience. What you say matters more than how often you say it.
+
+- **Hooks are the highest leverage point** — Lara Acosta and Jasmin Alić
+  both document that the first line of a post determines 80%+ of its
+  reach. Hook writing is a skill, not an afterthought.
+
+- **Content must connect to revenue** — Devin Reed's work at Gong and Clari
+  proves that LinkedIn organic must be tied to pipeline metrics, not just
+  impressions. Vanity metrics kill executive buy-in.
+
+- **Consistency beats volume** — Across all 10 experts, posting consistently
+  3–5 times per week outperforms sporadic daily posting followed by silence.
+  The algorithm rewards reliability.
+
+---
+
+## Collection Status
+
+| Expert | LinkedIn Posts | YouTube/Podcast | Status |
+|---|---|---|---|
+| Richard van der Blom | — | 2 videos | ✅ Complete |
+| Justin Welsh | 7 posts | 2 videos | ✅ Complete |
+| Lara Acosta | 10 posts | 2 videos | ✅ Complete |
+| Dave Gerhardt | 7 posts | 2 episodes | ✅ Complete |
+| Chris Walker | 7 posts | 2 episodes | ✅ Complete |
+| April Dunford | — | 2 videos | ✅ Complete |
+| Adam Robinson | 7 posts | 2 videos | ✅ Complete |
+| Pierre Herubel | 7 posts | 2 videos | ✅ Complete |
+| Devin Reed | 5 posts | 2 videos | ✅ Complete |
+| Jasmin Alić | 10 posts | 2 videos | ✅ Complete |
+
+**Total: 53 LinkedIn posts · 16 YouTube videos · 6 podcast episodes**
+
+All content collected in June 2026. All sources verified active and posting
+as of collection date.
+
+
+## Key Signals from the Research
+
+These are the most important patterns that emerged across all 10 experts
+and will form the backbone of the playbook:
+
+- **Algorithm first, tactics second** — Richard van der Blom's data shows
+  LinkedIn reach is down up to 60% but engagement quality is up. Every
+  tactic must be built around what the algorithm rewards in 2025–2026,
+  not 2022 best practices.
+
+- **Founder voice outperforms brand content** — Adam Robinson, Justin Welsh,
+  and Pierre Herubel all built pipeline through personal profiles, not
+  company pages. Personal profiles get up to 5x more organic reach.
+
+- **Positioning before posting** — April Dunford's frameworks show that
+  without clear positioning, even well-structured posts attract the wrong
+  audience. What you say matters more than how often you say it.
+
+- **Hooks are the highest leverage point** — Lara Acosta and Jasmin Alić
+  both document that the first line of a post determines 80%+ of its
+  reach. Hook writing is a skill, not an afterthought.
+
+- **Content must connect to revenue** — Devin Reed's work at Gong and Clari
+  proves that LinkedIn organic must be tied to pipeline metrics, not just
+  impressions. Vanity metrics kill executive buy-in.
+
+- **Consistency beats volume** — Across all 10 experts, posting consistently
+  3–5 times per week outperforms sporadic daily posting followed by silence.
+  The algorithm rewards reliability.
+
+---
+
+## Collection Status
+
+| Expert | LinkedIn Posts | YouTube/Podcast | Status |
+|---|---|---|---|
+| Richard van der Blom | — | 2 videos | ✅ Complete |
+| Justin Welsh | 7 posts | 2 videos | ✅ Complete |
+| Lara Acosta | 10 posts | 2 videos | ✅ Complete |
+| Dave Gerhardt | 7 posts | 2 episodes | ✅ Complete |
+| Chris Walker | 7 posts | 2 episodes | ✅ Complete |
+| April Dunford | — | 2 videos | ✅ Complete |
+| Adam Robinson | 7 posts | 2 videos | ✅ Complete |
+| Pierre Herubel | 7 posts | 2 videos | ✅ Complete |
+| Devin Reed | 5 posts | 2 videos | ✅ Complete |
+| Jasmin Alić | 10 posts | 2 videos | ✅ Complete |
+
+**Total: 53 LinkedIn posts · 16 YouTube videos · 6 podcast episodes**
+
+All content collected in June 2026. All sources verified active and posting
+as of collection date.
