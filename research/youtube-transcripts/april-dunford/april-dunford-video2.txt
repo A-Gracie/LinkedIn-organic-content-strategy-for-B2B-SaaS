@@ -1,0 +1,471 @@
+ Source: https://www.youtube.com/watch?v=BKFLd4kPGFA
+Expert: April Dunford
+Date collected: June 2026
+
+---
+
+Customer insights for product marketing.
+welcome to the positioning show where we discuss topics related to the practical application of positioning for Marketing
+sales and product teams I'm April Dunford a consultant author and the world's leading expert on positioning
+for B2B technology companies hi welcome to another edition
+of the positioning show with me April Dunford hey today I've got a guest um I'm pretty excited for this one uh this
+was one of these guests that I've been trying to get on the show for a long time but my calendar was terrible and her calendar was terrible we finally
+made it happen today I've got Martina lenko and she is one of the most experienced product marketers that I
+know you folks might know her as uh one of the instructors at Silicon Valley
+product group where she teaches product marketing stuff there um prior to joining them she had a long career
+working on products that you might have heard of like Microsoft Office and Netscape Navigator uh a lot of you might
+also know her for this book uh called loved um how to rethink marketing for
+Tech products this is a great resource book if you're new to product marketing and you're trying to figure out what's
+this all about what are we supposed to be doing here I really like her thinking on this how she breaks product marketing
+down into a set of core competencies and so I thought it would be really fun to
+have her on the show and we could talk a little bit about her four pillars or four core competencies of product
+marketing I think that there aren't a lot lot of people out there that know a lot of stuff about product marketing and
+have seen the way it works across a lot of different companies in addition to her work at Silicon Valley product group
+uh Martina is also um partner at cost too Adventures where she sits on boards
+and advises a lot of startups so she's seen a lot from very small companies to
+large world-class companies and I think she comes with a lot of experience and a really neat lens on product marketing I
+think you folks are really going to enjoy this conversation I know I did let's get into it Martina is so great to
+have you on the podcast welcome how are you doing oh it's so great to be here April I've been a a fan girl from afar
+so to actually have the two of us together it yeah this is so great and we
+you know we had a hard time scheduling this too because you know I think I moved it you moved it it was you were
+busy people uh but I'm happy we're finally getting this done I um I read your book I read your book I even have
+it for people with the video you can see as prop here I read your book I actually marked it up I have a habit of marking
+up books I read it I marked it up and I thought oh this is going to be such a good conversation I wanted to talk a bit
+about one of the things I really liked about your book was um the way you
+define product marketing at a high level like I thought it was I thought it was a
+really interesting perspective on that and in particular you talk about four fundamentals of product marketing and I
+really loved the way you broke it down so the first one was um connecting customer and Market insights uh the
+second one was around go to market strategy and I've I've got a billion questions for you on that one um the third one is storytelling or shaping how
+the world thinks about your product and that's where we get into positioning and some other stuff in there and then the last one is evangelizing or you know
+making sure that everybody else is enabled to tell the story and so I have a bunch of questions on each of those things that I thought would be fun but I
+wanted to start with Market Insight so um can you talk a bit about how product
+marketers should be gathering these insights because I get a lot of questions on this like how should we do
+it how often should we do it like the mechanics of it like and I'd love to hear your perspective on yeah so this is
+the ambassador of fundamental and I'd say the the very best in class that I have seen a VP of marketing basically
+made it a requirement for everyone on his team to talk to a minimum of two customers every single week and it was
+up to them how did it do they DM them do they reach out to them on LinkedIn do they basically go into the sales flow
+and reach out and contact people and and do a formal interview but it was just to make sure that everyone was constantly
+touching the market and why people were engaging with this company so that was the best in class that I seen was like
+Customer interviews.
+it's just a requirement everyone has to do it everyone has to do it and and because it was part of how everyone did
+their jobs every week it was foundational and people like oh I don't really know how I might want to say this
+so let me talk to a customer so that was sort of besin class that was ongoing all the time I've also seen the episodic
+we're going out in the field for two weeks everybody is deepening their
+customer knowledge on site and the the things that you learn by observing
+people doing their jobs in the context in which they're doing them you just get all this
+inferred Insight that is not obvious if you're only engaging in convers ation and this sounds a lot like what product
+managers do and the best product marketers work a lot like product
+managers but you're looking for Market Insight instead of product Insight so just writ large I think just anything
+that a product manager might do you should ask yourself should I be doing this too and I say the last one which is very Tech enabl gong has been has become
+a fantastic or anything like that yeah unbelievable proxy so when I drop in and
+I do work with companies I'll be like share 10 gong call CU I can't have 10 customer conversations and I'm outside
+the company I listen to 10 gong calls and then I have a really good sense of how actual conversations with customers
+are are going where they lean in what they say you can hear in these calls
+where there's presumption and how the rep is starting to engage with the customer versus oh yeah they were really
+they were really listening so I think those are three examples of how it can be done really easily I can't believe
+like gong like like I talk to people now and I'm like there was a time when we didn't have
+this and it hard it's incred know I spent so much of
+my career basically just wandering down to sales and being like I'm G to sit in on your calls or back when you know when
+I was working with companies where you know sales rat actually went on the road and we did face Toof face meetings I'd be like the person in the corner like
+don't mind me I'm just here taking notes I was the April I was totally the
+same and you were begging the sales drops can I please please please do a RI on wehop yeah the sales drops didn't
+want you to come the sales it's gonna look weird nobody wants this other person you know totally totally yeah so
+so do the technology cheat it's extraordinary yeah I love this idea of
+going out and watching customers as they use stuff and do stuff like I gotta say I don't I don't think I've done enough
+of that how do you think like in all of these things like even if you're interviewing customers or you're in
+observing customers in their day-to-day but I guess more on the interviewing side like are there um best practices
+around that like I get a lot I get a lot of questions around but this is more specifically related to just the
+positioning piece but I get a lot of questions around well if we're going to do customer interviews how do we do it like what are the right questions what
+are the weight and then I get lots of people asking me like you know would a
+positioning interview look the same as a jobs to be done interview and what would be common and what would be different so
+I'm interested in your perspective on that and what you've seen other companies yeah that's such a great
+question I would say I I find that where you are in stage influences the style in
+which it's conducted so in that earlier Stage Company it is massively overlapping with how Pro how product is
+learning and ingesting information and so because you don't know your new software product that isn't established
+and so you're really trying to find like what's what's my entree and I have to find it not just in them trying to do
+their job but in their how do I get their attention like we where are they going so even this used I don't know if
+it's called this anymore but we used to call it anthropological where you would just observe someone work for an hour not on your stuff just let me see you in
+your day and part of that and you can actually do that with the interview which is like hey before I before I show
+you anything walk me through the average day and you start it starts to paint to a Pi of not them trying to accomplish
+this is my my only beef with jobs to be done is you're trying to to understand
+within a particular frame like you you are a data scientist I want to understand what this in this Frame but you kind of want to understand the
+bigger context of that person you start your day what happens like oh I have two meetings and then I come back to my desk
+and I have half an hour in which I'm trying to accomplish a task jobs to be done is going to look at the job within
+that 30 minute I'm trying to get that task done and not the two hours that proceeded it which means I'm hopping in
+and I need to jump in with very little additional context into software that I might only use once a week instead of
+every day it's not email it's not slack it's not where I am spending all of my time and that changes the framing in
+which gosh I I need to make it even easier I can't once someone's an expert
+in my software then they know what to do but for the when they're first starting to use it they're doing it one way so that's early stage you have to figure
+all that out and super complicated so that's why like early stage is a little different later when you're established
+people know what you are it is a different game and so there you're trying to glean nuances in what's going
+to make them see us different because you're positioning is always like we were this and now we're that we we have
+Understanding market changes.
+to evolve in your mind because there's something newer and better so that you're upgrading people you are you have
+a much more expansive product Suite that you're trying to get them to adopt and so that the context of their perception
+of you is changing and so you have examine it in within that context which
+is a little different than you're trying to disc all that other stuff I know that was a really long answer but yeah yeah
+no I know what you mean I know what you mean what about win loss analysis what do you think about that I get asked
+about win loss analysis all the time you know what like I get asked about loss analysis all the time and I'm always
+like what about win analysis man like do we only care about the ones we don't get
+yeah what do you think about that I think it's a critical tool I'd say doing
+it at least once a quarter again depending on scale and size is is really important and I agree with you
+understanding why you win is as important as understanding why you lose what I'll say about why you lose is
+having being really objective and being willing to hear about what they say and
+what they mean so for example companies will report our budget
+got cut yes and so that's what they're telling you like our budget got cut sorry we couldn't say yes and it's like
+well you just were you didn't make the line for which you couldn't be cut like there's certain things that weren't cut
+so what was not valuable enough so with a lot of loss analysis they don't ask that next question and that's so I say
+that's the the big caution I have on whenn loss analysis ask that next deeper question don't just take the service
+answer yeah yeah I think you know I think that the sales team is often bad
+at reporting this stuff like for that right they'll come back and say we lost the deal because we didn't have this one
+thing and you'll be like yeah okay well let's actually scratch down on that know and it turns out it was a thousand
+things and you know and customers don't always tell us the truth yeah talking
+about the sales team like what can we get out of the sales team like what's your opinion on that I think there's so
+much that can be learned mean just working so collaboratively with sales so you just wrote your book on the sales
+deck what a critical tool that is and I I agree with you that it really needs to
+be developed together with sales and from a process perspective that's one where I'm like hey don't don't be in
+your marketing Ivory Tower and say and now we've done this beautiful thing here you go it's sort of like hey this is our
+first pass have a couple of Partners in sales that actually put it through its paces and then tell you all right this
+worked well this didn't work as well this was a little hard and i' I've done this with companies and sales people
+always trying to be really nice like well this was really great I really really love this and this is a little like hey just keep it really
+real the opposite like I have the opposite seals are so mean to me
+like they're so they're not worried about hurting my feelings at all like it
+yeah they're like you know you know anytime we're starting on sales pitch deck like back when I was in house you'd
+show up with something in sales would be like the the going in attitude was this is hot garbage get this out of my
+face well then that they were being so oh my God
+but one of the things I'm interested in though is like because you know maybe this is top of mind because I had
+somebody asking about ask me about this the other day and I was like oh this a good question I don't actually I'm not sure I know the answer but the question
+was is they said you know we get so the the the person I was talking to was
+trying to make the argument that the reason product people don't work more with sales is because you know sales is
+always coming to them with these requests that are bad like so you know I
+got one customer you know and the customer is big and weird like Walmart and they want this weird thing and no
+one else wants it so obviously we're not going to build it but you know and I said so I'm taking the stance like I
+think you can get all this interesting information out of sales and the the person I was talking to was saying yeah
+but how do you filter the good stuff from the not good stuff like how do you know how do you filter what is generally
+true from what is just true for this one big account therefore it's not true because
+sales people tend to like you know the last Big G of them they talk to is what's in their brain of course and I I
+I'd say presume there's an element in truth and everything sales is telling you and your job to say to take your job
+as a product person is not to take it on face value but it's to examine it in context and say okay I heard this from
+Walmart a giant customer and I'm hearing all these other little things is it the feature that they're asking for or are
+we just not easy enough to use in this type of use case which happens to be in common between
+these so much of what I I think a lot of people look for the easy answer from customers or sales saying like oh what
+are we missing you tell me and then we're going to build it as opposed to Let's infer from all of this in inbound
+requests what a better solution solution to these problems might be and that's that's the art of product management
+that I think often gets lost in the conversation and that's ask everything
+ask for tons of information from sales it doesn't mean that's that's what you have to build yeah yeah exactly exactly
+what about um you know coming back to this idea of understanding the market like how do we how do we look for
+disruption or changes in the market like what do you what have you seen like is there anything Smart Companies are doing
+to try to have an early warning system that things are changing and maybe we need to change what we're doing like
+either from positioning or the story or any other sort of aspect like you got any got any tips on that yeah well I
+mean we're in the midst of a really like like a tectonic shift right now with what's happening with Na and this is one
+where I I personally I've seen the desktop the internet the mobile social all of these big shifts in technology but this
+is the biggest that's happening the fastest I have ever witnessed and so I would just say how we are all doing our
+jobs is is changing and will be different and we know that is happening we just don't know how fast and that's
+Monumental like the speed at which I'm having to learn everywhere like man I didn't even know that was possible and all of a sudden next week's up that is
+important I think for everyone in the go to market side to be parsing because your customers are asking themselves
+that question too what do I need to be doing differently so this just present instead of like hey let's paint everything with an AI paintbrush it's
+how is everybody reexamining what they do and the assumptions they have and how can you help make them smarter how can
+Product marketing and go-to-market strategies.
+you educate them in this we're all figuring this out at the same time there's no one that's expert because
+it's all new to all of us so that's one of those tectonic disruptive things that everyone
+must be paying attention to and they have to identify their role with it and the opportunity it presents so that's a
+big big one but then for the little ones that you're talking about which is all right Q4 closed and it wasn't that great
+so what you me to be doing differently but those are the things that ideally
+you're seeing in advance our sales velocity is slowing our sales cycle is
+increasing and we were doing great those are the telltale signs maybe we are not
+positioning well enough relative to the competition or how the market has shifted or it's just not striking a cord
+there's a company I work with in our portfolio called Bug crowd they've done the exact same study results five years
+in a row and then the fifth year they just packaged it differently and they made it more dynamic they made it an
+easing they did all these things that made it feel very different same kind of
+data and it wasn't it wasn't monumentally new but they just packaged it differently and prior four years they
+would get about 200 200 300 leads in a in few in a few weeks they had 200 leads
+within the first 48 hours so this quality of execution matters a lot and
+the words you saying and the context in which you put it matters a lot the visual context are we all the dressing
+around it so I wouldn't underestimate those other things in addition to are we saying the right things right yeah I
+agree um I want to shift a little bit to go to market strategy um
+you know because I love that as you know that was kind of your second pillar of of product marketing stuff like can you
+define go to market strategy just like give us your definition of it because everybody's definition everybody's definition so so the one I and and I had
+to spend a lot of time on this in the book because there is there are so many ways of talking about go to market strategy and so oh marketing stuff we're
+the worst when it comes to definitions like we just we just like invent a new definition for everything every 10
+minutes and then you ask someone in sales and they'll say the same thing but they mean something different right so
+with product marketing and I I specified that the strategist is you're the product go to market strategist and so
+this is which is different than go market strategy large which is like hey how how is the whole goto Market
+Machinery working together product go market strategy is you've built product X and you're the product marketer's job
+is to understand how that product X is penetrating the market which is why that
+Ambassador the customer marketing sites is thing one because if you don't have it you can't figure the strategy out but
+it's how does the product we've built intersect with this market and what are things that we say what the Key
+activities that we need to do and then the marketing team they take that foundation and they amplify it and they
+promote it but they need a foundation to on which to build and amplify and
+without that work of like hey here's here's roughly how we think we're we we need a channel partner to do this
+particular work or here's where we really need to lean into analysts to tell the story for us it can't just us
+so that's the product go to market strategy aspect that's distinct from the go to market strategy right large which
+is the marketing and sales Machinery together interesting and where does lead
+generation fit in that like so when I was when I was reading your book I got
+Lead generation.
+to the go to market strategy part and I was like yeah yeah yeah yeah yeah yeah yeah and then at one point I was thinking wait a second like have I ever
+worked in a company that actually did this I was trying to think of did I have
+and so there were there were absolutely places where product marketing was
+defining some of the things you talk about there like that you know we're going to have to do this part with a channel partner and not with another um
+we definitely did a lot of stuff in analyst relations like you know we're going to need an analyst to believe this
+stuff because otherwise we're not credible in the market without that and we know our customers use analysts we
+had to do that but when it came to things like lead generation I you know I don't know if I
+worked in a company where that piece of the go go to market strategy was getting driven by product
+marketing and so I'm curious like you know then the bigger companies I worked
+at we didn't have product marketing function yeah for the most part like the product marketing was getting done the
+bigger companies you didn't have it but the smaller ones you did yeah oh interesting very very interesting the
+smaller companies smaller companies we did like there was someone I could point to and say you're a product marketer the
+bigger companies it tended to be there were roles that were like so for example um
+at when I was at IBM there was a role inside IBM that was called a market manager and a market manager was kind of
+like marketing and product marketing all rolled up together yeah so they did it and they they definitely own go to
+market strategy all all the way across the board Soup To Nuts yeah um but there wasn't this idea of a separation between
+that yeah and so anyway I'm curious what you see you deal with all kinds of companies that are trying to figure out
+what this function is in their organization so and I was curious about Leen in particular like who owns the
+lead genen strategy like is it marketing and how does product marketing fit in there and like how do the two work
+together yeah so lots of questions in there so thing one uh product marketing different and
+different companies is it the function can be called different things in different companies and different people
+the the function must be done so the product code Market strategy has to be quarterback somewhere it might not be
+someone that has the title of product Market or sometimes it's someone that has the title product manager sometimes
+it is some a marketing manager sometimes it's a strategic Marketing Group sometimes it is a strategy group but
+it's the function of figuring out how does this product intersect with the market and what are the key things that must be done so yes about Legion where
+does that fit that's part of the go to market engine so this is part of the marketing and sales engine that take the
+foundation work that product marketing does and amplify it and create so Legion I'm creating content on top of this I am
+running webinars it's it's all of the Tactical execution of the things that will
+actually bring leads in and product marketers might be involved in the creation of some of that content but
+they're not the ones that are owning that execution so lead generation and and the our demand generation as I'm as
+many people on the BB side call it that's really like take some Foundation pieces and then just blow it up to bring
+a whole lot in and product marketing is an assist on that but they aren't necessarily the ones that are doing all
+of the Tactical execution does that answer to question like I found I found that product marketing got involved a
+lot in like again when we were talking about the strategy of it not just the execution the strategy of it like you
+know were we going to do webinars at all yeah like you know and should we do be doing events like are events the right
+thing for our people yes right like like do our people go to events and so you
+know definitely the product marketing function I thought had a lot of good impact like input into that to say well
+you know like you know this is what the champion our kind of a deal looks like this is where they hang out this is what
+they do therefore I wouldn't worry too much about this but this kind of a tactic might work better exactly you
+know as opposed to I think the the the marketers tend to get a bit distracted
+at the flavor of the month right everyone's doing this you know everyone's blogging so we should be blogging everyone's doing podcast right
+now it's podcast everyone's doing podcast we should do podcast whereas I feel like the product marketer is may be
+sitting there going well I don't know like you know are people do they you know the product marketer I feel like
+should have the answer like do these that's thing one they got to understand the market so thing to is they're the
+strategist the product go Market strategist which is what's the right thing for this particular product and I
+and I'll use product somewhat Loosely in that you know companies evolve early stage you have one company later stage
+you have an entire product Suite so you're orienting the product marketer differently how you might bring them
+against the market and say you are now the Enterprise product marketer so you pull from our product suite and help us
+figure out how to penetrate this market with the suite of products that we have but it is very much exactly what you
+said which is events like I I remember when I was at Microsoft it made a strategic decision to not do major
+events and it was huge I was like what and they're like look we looked at we did the analysis we spent gillions of
+dollars because Microsoft would always have a huge presence and they're like everyone knows us we don't learn as much
+like it was kind of like you know there are better ways to do what we're getting out of these events and it it seemed so
+crazy to pull out I mean they're backing them obviously but that that was a really smart decision from a business
+perspective and that's the man I I was at IBM when we made the same decision so when IBM and I forget what the big
+before it was the Consumer Electronic Show there used to be that big show in Vegas com comex oh my God exactly I
+Positioning for companies.
+actually have Trauma from working the booth at comex and I obliterated it from
+my memory no but that was the one there was like the first year and I think you were
+I think you're right I think it was I and Microsoft and somebody else yes one year just said no more condex and it and
+it obliterated the whole show within two years it was gone and it became this Consumer Electronics Show but I think it
+was all the companies that were doing B2B stuff kind of collectively looked at the results of this stuff and said you
+know what this isn't working for us and we're just not going to do it anymore and we're gonna take that budget and spend it elsewhere at the time you're
+right it was like it felt like this big thing like what exactly you're like well no CEST cuz because it was the
+centerpiece like you started planning context a year in Advent right and all of a sudden my gosh and it was the it
+was literally the right decision like the last time I went and I worked on the on on the show floor I was like the
+whole time I was there I was like why do we do this why why why do we do this nobody that we care about is here
+totally totally just became this big boond for everybody it's like okay that's that's
+not helpful for the company you know and interestingly it was different in different markets because the equivalent
+Big Show was CIT in Germany yes that's right for the European market and that one was good yes that's totally
+different type of person lots of decision makers lots of very very senior people attended that show and so we
+decided CIT was good but comex was out that's right we I think we I think all the majors at that time made the same
+decision made the same decisions we're all like no not doing that one anymore yeah but I also have trauma trauma about
+CIT like that thing was too big went for too many days yeah good meetings though
+I want to switch gears a little bit and and make sure that we get some time to talk about this storytelling piece
+because this is a positioning show so we should talk about positioning so one of the things I loved about your book was
+you know we got I got to the part where you're talking about um the positioning statement and you were like positioning
+statement is bad and I'm like yeah preach exactly hate
+it I think anybody that's deep on this stuff would say that I mean I think I
+you know I think it was the stop Gap thing that people used when there was that maybe nothing else to use but
+um so so how do you like to think about positioning like you know obviously like
+positioning statement I think you know in some cases maybe you could use it to write down positioning I don't even think it's a good way to write down
+positioning personally but like if we're not using the positioning statement what do you used like what do what do you see
+in the companies you work with like what are best practices how are people getting positioning done I'm so curious about this like I know how people are
+doing it to work with me but they're coming to me to use my stuff so I'm curious like you know what what else is
+like what else are people doing out there yeah well the positioning statement I think
+the you say this in your book which is positioning State don't ever write a positioning statement and I think it
+becomes this crutch of oh we found the perfect way to articulate everything that we do and then we say it again and
+again everywhere in everything the same way and I think that's the the crutch
+that everyone got like that's isn't that what that we're supposed to do and positioning itself is what's the
+position that your product holds and you want it to to be this container that is the foundation that you build all these
+messaging spokes off of that are spe so what is with the articulation of this in
+the sales deck in your you know your next book because that's such an important thing and it's different than an investor deck you cannot say even
+though you're the same product and you're the same positioning needs to be messaged specific to its audience and
+Sales pitches.
+its context what you'll say in a text message in an email and a website are
+going to be different because you have a context that is really different so to answer your question what the companies
+that I work with the biggest thing that we ask ourselves are what's the context and where does this live in the journey
+in terms of how do we craft messaging around the market position we want to hold so that it can be heard and that it
+breaks through the biggest thing I work with with people on is what is it that people want to hear and without
+exception when we talk to each other as ordinary human beings trying to convey
+what it is that we're trying to do that is helpful I it's l like hit record and that right there should be your
+messaging because I would say truly eight out of 10 times how someone would
+explain it and what they're trying to do to an ordinary person better captures the essential essence of how they should
+be communicating about it right now the other thing I'll say is I think we have this trap of we get this perfect
+statement and then it's done check as opposed to it's a living
+beast and it it will evolve and I work with early stage companies at Costa NOA
+it evolves a lot in the early St oh yeah it does it sits a lot more still in later stages or you you might hold still
+on this for a year but in the early stages it's pretty Dynamic and to your point about sales what do you learn from
+sales you'll learn about how to message better because they're the ones that are doing the laps at the front line yeah
+that's true and it is true that in the in the early stages things change so much and then the later stages I mean
+you're really knob turning yeah you know the bigger the thing get occasionally every once in a while you might do a big
+tectonic shift as a result of something big going on in the market but there's not as much big stuff going you know and
+it's so different from consumer products like B2B versus consumer like in B2B we
+often have changes in positioning built into the strategy like we're positioning here but the plan is you know a year
+from now we have the capability to position there which we don't do that in consumer companies we're like you know
+we're selling fizzy water That's it man right right and here comes summer so let's make sure we launch a new flavor
+for the summer right right um what do
+you think about storytelling Frameworks I could asked about heroes Journey stuff and where do we use that
+and where do we not use that you got any opinions about that I I I love Frameworks as a way to
+be helpful in getting people to think about things as narrative and that we as
+human beings we love stories and so I think it's really helpful for that what I find in the practical application is
+it's really difficult for people to use these Frameworks and come up with something good because they they're like oh I'm I'm using the framework therefore
+it's going to good but you always have to apply this context of who is this
+person so like that hero's journey work for that data scientist who's just
+trying to get his algorithm better faster I don't know if if that's right
+for for that or that particular context is it an essential thing in doing a
+pitch to an investor so that they can imagine the world that you envision yeah it is or to a decision maker where
+you've done all of the influence and all the technical stuff and now you're just wanting them to love you as a vendor so
+I think context matters a lot and I think again it's another one where people might use it as a crutch saying
+well this is the magic answer that being said I think you talk about this in your your your how do you create a sales a
+great sales pitch you always we always want people people want to Envision the
+world that you see so you don't want to just come at them hard with like here's here's Prague stuff so in in that
+respect of p a picture that helps me connect like the purpose of stories is
+connection and so I think be focused on the purpose and not the Frameworks are
+helpful but the purpose is the more important thing to be focused on yeah I think that's true and I think some of
+this stuff is a good it's a good starting point and we can use it in some ways but yeah I think you're right
+people get kind of like you know slavishly attached to it have to be
+exactly like this and it's like no we don't get a cookie I'm
+30 you mentioned you mentioned investor investor positioning a couple of times and I'm curious like in the companies
+you work with does product marketing get involved in in helping the company
+position for investors typically I would say not typically yeah but where it
+becomes important is if product marketing has identified for us to get to you you talked about B2B strategy
+which is like hey next year for us to be there we have to shift our positioning that can be important in an
+invest in an investor hearing that you understand that the market is Shifting that you are shifting along with it so
+it's not that the product marketer is involved with the investor pitch but the product marketing team has identified we
+need to occupy this position 18 months from now and it's a build for us to get there and we're going to have these
+Gates that we are going to try and move toward and that's going to be a key that's going to be part of a slide or
+might be part of the story but I think from an investor perspective especially the later you get
+it's like the if you don't reflect Market reality and how you're pitching sort of like you're you're missing the
+mark of what like you need to just Add Water later on for the growth to continue for investors to be excited and
+so right yeah help us help us understand that you truly understand your market and so painting that picture accurately
+um and saying that you know how to keep moving the game and the ball forward is important yeah yeah I totally agree with
+that what and then I want to touch quickly you know on sales enablement and
+Testing new pitches.
+sales pitch stuff because that's my jam right now but uh do you think who do you think
+should own building the sales pitch like do like do you think there's an there's
+a again thinking about the companies you work with like who's building sales pitches is it product marketing is it
+sales enablement is it a collaborative effort between marketing and sales like who's building these things the best
+companies make it a collaborate effort between marketing and sales and so it's product marketing it again depends on
+the scale of the company if you have sales enablement of course they're involved if you have product marketing they should be involved or product
+marketing is not doing their job and sales has to also be involved because it can't just be you created in the Ivory
+Tower and then handed down and so I always the best teams are making this
+massively collaborative effort that is also iterative like I'm a big believer in you know try and get it perfect and
+then roll it out and TR people on it it's we think this is good you have a pilot team that runs with it one of the
+best examples I saw of this was in work's early days they would have these these sales teams that would be the lead
+I'd never seen this before where the sales teams would take the lead and they'd have a Solutions architect out there with them and they would just run
+Piner Point saying like let's see what sticks in advance of product they're like let's see if we can sell it before
+we even build so smart it was and they'd have like two people working on it and
+it's like okay we have we we know we that there is demand to buy let's make
+sure we build so it was totally backwards from everything I'd seen everywhere else but it was really
+effective yeah I've seen little little companies do that like you know and and
+it's usually the the founder doing it where they're out pitching a thing and it's not built yet but they're like you
+know pitching a thing um and I have seen a lot of the companies that I've worked with you know they'll you know there's
+the products there we do a shift in positioning and then they will have this little beta tester team that's T testing
+the new sales pitch before we try to roll it out to everybody else we're testing the new sales pitch in this very
+controlled way so that we can get a bunch of reps in because we know we're going to make adjustments on it and so
+let's not throw it out to everybody else and have everybody barf on it and go ah this thing is you know and then
+everybody comes at you with their 9 million things that they want adjusted so we do this sort of controlled thing at the beginning where we get a lot of
+reps in get a lot of exposure to customers and we we're trying to work The Kinks out of it before we send it
+off to everybody else because otherwise it's a nightmare that's my favorite way of doing it like get all the Reps in
+make it really good and then you roll it out because and then also there's we think about the credibility that
+establishes too which is like hey we had we did reps on it we actually got this in front of customers so we know it
+works yeah yeah the other way I've seen people do it which is interesting is they take like because inevitably the
+very best sales reps have done a variation on theme that makes them really effective is they're like all
+right let's take those best those bests and let's suck in what they've learned why are they so good what are they doing
+differently than everyone else let's see if we can bring that in absolutely the the what I think is terrible is when
+people like oh well those best reps are just so special and they just do their own thing instead of like let's bring all that intelligence back into the rest
+of the sales team and the ma and the master deck that everyone can you know iterate from but you want it to be the
+Product marketing function.
+strongest it possibly can be yeah that's a really good point I hear that a lot too where people say oh well John does
+this different and we let him do this different thing because John does it different most of the time I think
+there's things you can steal from the way Jon's doing it now sometimes you'll have JN has some weird thing which
+you're like I don't know how John gets that to work but okay right exactly
+there's some Cowboy specials in there but there's probably some good thing that we should be bringing in but
+usually there's a bunch of stuff you can steal from it like you can't forklift the whole thing because John's got a
+stick 100% 100% yes yeah I just did I
+just did a workshop recently where you know the equivalent of John was in the room and John was like here's how I do
+it and we were all like okay here bit that works for you but for
+the mere mortals in the room that actually happened to me once so when I first joined Microsoft um they did this
+uh this training for a bunch of us who were new it was the first time they'd ever done done product manager training they were training us on more to the
+product marketing stuff and this guy came in that does demos and he was electric and he was literally throwing
+candy at us at various points and he was a theater major and I looked at that and I was like I will never be able to do
+that so I put in my hand I was like if we aren't you like how do we demo well
+if that's the bar I it was kind of crazy he's like like oh well here's how you make it your own thing so I do think
+they a lot I love the mental image of the guy showing up and tossing candy no I mean it really was I was just like
+this is it was a production I was like oh my God but I did learn some really valuable
+lessons like how how do you make it a show where you make it really engaging where you're you're going from thing to
+thing really quickly where there's a narrative there a narrative spine in a demo but the hero's journey as I'm using
+a product as opposed to just as I'm I'm messaging your positioning so demos is another place where you can apply that
+and I was like oh okay so I can do it in my style with some energy in the flow through the product right right um a
+couple of questions just because we're we're getting to the end of time here um
+do you think product marketing as a function is misunderstood and I I'll caveat this with you know I was very
+surprised I started out in product marketing um and then I and then I became more sort of marketing VP and but
+you know but I always kind of considered myself product marketer but to product managers I felt like whenever I went and
+spoke at a product management conference or I was surrounded by product managers the product managers seem to have this
+existential thing like who are we you know they were always they were always asking me like you know what how do you
+define it and what's in and what's out of product management and I've been listening a lot to like Marty's got his
+new book out and so I've been listening to him on podcast and he's great and you know and
+his whole thing is like you know you're a product manager not a project manager and so if you define it this way that's bad and and I kept thinking to myself
+like do we have the same like existential sort of thing where people like do you think product marketing is
+as misunderstood as product management I would actually yeah I would say product
+marketing is more misunderstood than product management because at least there's consensus that a product manager
+builds the product product marketing is done differently in every single company
+you the edges what defines the edges of where a product management and marketing
+begins and ends are it's not an there's not an absolute definition and and it is
+contextual and it shifts over time and like when you're an early stage company
+and what the focus of a product Market would be versus a later Stage Company so that's what makes it so challenging
+uniquely and why it's massively misunderstood and because it's done differently everywhere it's very rare
+that someone has experienced like that top five or 10% of how product Market can be at its best so their mental model
+of it is oh are you the person that writes coll like both sides product and marketing product marketing you mean the
+people that do the collateral the people that that will do the products on the website the people that are are are
+taking notes and gonna magic marketing things from out of the product team and so it's it's very misunderstood and so
+that's actually why I wrote loved so it is part of the svpg series which was there needs to be this much more Global
+understanding of the function regardless of the title regardless of the shape of your organization that's why I distilled
+it down to those four fundamentals the Ambassador the strategist the Storyteller the Evangelist so that if
+the edges are different at your company the foundational work can still happen like in Europe a lot of people talk
+about we don't have a lot of product marketers here the discipline hasn't existed for a long time so how does it
+begin like well it's probably going to begin in product more than it is in marketing because marketing is an animal
+that it's the amplification it's the promotion it's all the the tactical activities so that more strategic view
+that connects it to the product and make sure are we leveraging the differentiated asset that we have are we
+understanding who the real user of this is and is sales actually able to sell to the person we've envisioned and do we
+actually have product Market fit that stuff is you need a lot of depth to be able to do that so that's why it would
+more typically start a product so that's why I wrote the book I like there's a
+really good explanation do you think that product marketing should report into product in general great question
+I'm sure you get asked that all the time because people ask me all the time where should it report I'm like I don't know
+man I would say most places it is a marketing function that reports into
+marketing and the only times I think it makes sense to move it into product is if you're trying to solve a business
+problem that way oh my gosh the product marketing team is way too removed from what's happening in product so we we
+need to get them closer so they have more product intelligence that they can bring into the marketing team but I'd
+say the the single most important thing is who the leader is on either side totally agree if the leader on the
+marketing side does not understand how to utilize product marketing but the product leader does move it over but if
+the inverse is true like the product leader has no under they're like what am I doing with these product marketers it in marketing because at
+least it's it's where it's more expected to be and sales is looking for it there they're not looking for it as much in
+product so so that that evangelist partnership they at least look there so
+yeah very much who your leadership team I think very much shapes at where it lives yeah I agree with that too anyways
+that's it for us is there anything like if people want to connect with you or find out more about you and your work
+what's the best way for people to to I'm LinkedIn that's pretty much like that's my social platform of
+choice I was forly on Twitter but I'm like uh when I exed I just exed it for
+myself so metaphor so yeah LinkedIn is is uh is
+kind of my my my one place where I will do I'll try and post things that I find interesting and especially why I'm such
+a fan of yours is I think having more women examples succeeding in the work that they do is really important for
+people to see so I I do a lot of that on and talk that about that a lot on like Den as well okay cool well it's been so
+great to have you on the show thanks so much for taking the time I really appreciate it oh April it's just been an
+absolute Delight to talk to someone about all of this the
+nitty-gritty that's awesome all right well thanks again and uh we'll see you later all right thanks April
+[Music]
